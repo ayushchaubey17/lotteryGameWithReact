@@ -45,6 +45,12 @@ export default function Lottery() {
       <h3 className="">{winning ? "Congratulations ,you won" : ""}</h3>
       <button onClick={addMoney}>{balance==0 &&"Add Money"}</button>
 
+
+
+
+<p className="">you win a lottery ticket only when sum of all tickets are 15 </p>
+<p className="">If you win you got price of &#8377; 100</p>
+<p className="">Each lottery ticket having price &#8377; 5</p>
     </div>
   )
 }
