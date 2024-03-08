@@ -1,0 +1,25 @@
+.Allticket{
+    border: 2px solid green;
+    width: fit-content;
+    margin: auto;
+    padding: 4px;
+    border-radius: 4px;
+}
+body{
+    /* background-color: rgb(136, 100, 207); */
+}
+.ticket{
+    margin: 4px;
+    border: 1px solid grey;
+    padding: 0px 3px ;
+    border-radius: 20%;
+}
+
+.box{
+    position: fixed;
+    top: 10px;
+    right: 30px;
+    padding:0px 20px;
+    border: 2px solid black ;
+    border-radius: 40%;
+}
